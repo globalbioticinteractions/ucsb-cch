@@ -1,5 +1,7 @@
 {
   "format": "dwca",
   "citation": "University of California Santa Barbara Herbarium",
-  "url": "http://www.cch2.org/portal/content/dwca/UCSB_DwC-A.zip"
+  "_url": "http://www.cch2.org/portal/content/dwca/UCSB_DwC-A.zip",
+  "url": "https://linker.bio/urn:uuid:f31a5f98-efd3-476a-9627-de3add582acd",
+  "_comment": "due to (temporary) outage of cch2.org hosted ported due to https://github.com/bio-guoda/preston/issues/353 point to versioned copy instead of the live endpoint"
 }
